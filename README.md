@@ -1,5 +1,5 @@
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
 # 🎮 2048++
 
@@ -31,8 +31,9 @@ An enhanced version of the classic 2048 game, now with even more fun features! T
 
 ## 🎯 Demo
 
-🎯 Play here: [http:/None/](http://#/)
-![image](https://github.com/user-attachments/assets/d4fffe43-f970-4ce0-910e-a984d47f9353)
+🎯 Play here: [http://2048.ct8.pl](http://2048.ct8.pl:9969/)
+<img width="1279" alt="demo" src="https://github.com/user-attachments/assets/0df2c956-b6d9-4371-a916-f6ac3ae642be" />
+
 
 
 ## 📁 Project Structure
@@ -85,7 +86,7 @@ Still updating! Issues and Pull Requests are super welcome—let’s make this g
 ## 🙏 Acknowledgements
 
 Thanks to the following sponsors for supporting this project:
-- [None](https://#/) for providing the server
+- [Serv00](https://www.serv00.com/) providing the server
 
 ---
 _Last updated: May 2025_
