@@ -31,7 +31,7 @@
 
 ## 🎯 Demo
 
-🎯试玩：http://2048.qei.me:9969/
+🎯试玩：[http://2048.ct8.pl](http://2048.ct8.pl:9969/)
 <img width="1279" alt="demo" src="https://github.com/user-attachments/assets/28fb9014-e52e-49b7-a413-a79b5f8749f0" />
 
 
@@ -90,4 +90,4 @@ GPL-2.0 license
 - [Serv00](https://serv00.com/) 提供服务器
   
 ---
-*最后更新：2025年5月*
+*最后更新：2025年7月*

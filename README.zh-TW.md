@@ -1,5 +1,7 @@
-[English](README.md) | [繁體中文](README.zh-TW.md)
-# 🎮 2048 ++
+
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+
+# 🎮 2048++
 
 一個基於經典2048遊戲的增強版本，加入了更多有趣的功能！這個專案是我在閒暇時間開發的一個小遊戲，希望能給大家帶來一些樂趣。
 
@@ -29,7 +31,7 @@
 
 ## 🎯 Demo
 
-🎯試玩：http://2048.qei.me:9969/
+🎯試玩：[http://2048.ct8.pl](http://2048.ct8.pl:9969/)
 <img width="1279" alt="demo" src="https://github.com/user-attachments/assets/28fb9014-e52e-49b7-a413-a79b5f8749f0" />
 
 ## 📁 專案結構
